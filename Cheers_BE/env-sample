@@ -1,0 +1,2 @@
+PORT=3001
+DATABASE_URI="mongodb://<dbuser>:<dbpassword>@<server>.mlab.com:<port>/<databaseName>"
